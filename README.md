@@ -4,7 +4,6 @@
 
 <div align="center">
 
-# Your Name
 SA-1111 here ! **Software Engineer | Problem Solver | System Thinker**
 
 </div>
