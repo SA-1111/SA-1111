@@ -11,13 +11,13 @@ SA-1111 here ! **Software Engineer | Problem Solver | System Thinker**
 <hr/>
 
 ## About Me
-"If i could, i would code 24/7" - me
-I am a self-taught software developer, started with scripting and still going with full-stack development and automation.
-I love tweaking, hacking (90's perception) and working with tech in general.
-seriously curious and analytical. love the 0s and 1s craft.
-I build scalable systems and efficient workflows. 
-My focus is on clarity, long-term maintainability, and deliberate designs. 
-I have a thing for optimization while building, planning for a project might the most exciting part for me.
+"If i could, i would code 24/7" - me \n
+I am a self-taught software developer, started with scripting and still going with full-stack development and automation.\n
+I love tweaking, hacking (90's perception) and working with tech in general.\n
+seriously curious and analytical. love the 0s and 1s craft.\n
+I build scalable systems and efficient workflows. \n
+My focus is on clarity, long-term maintainability, and deliberate designs. \n
+I have a thing for optimization while building, planning for a project might the most exciting part for me.\n
 
 ## Skills
 **Languages:**  
@@ -48,7 +48,7 @@ I have a thing for optimization while building, planning for a project might the
 
 ## Current Focus
 - What am I learning right now?
-  Working with a Client on internal tool building and Website
+  Working with a Client on internal tool building and Website \n
   Current self learning AI/ML and data analytics.
 
 - What am I experimenting with?
